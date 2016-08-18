@@ -1,6 +1,6 @@
 {
   "name": "js-partial-is-present",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A partial to handle whether an object is present (not null and not undefined).",
   "main": "dist/js-partial-is-present.js",
   "license": "MIT",
